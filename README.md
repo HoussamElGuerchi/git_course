@@ -1,2 +1,4 @@
-# git_course
+# Git Course
 Git Course
+
+## This is just a practicing repo
